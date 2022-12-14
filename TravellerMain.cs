@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace OODProject
 {
-    public partial class MainMenu : Form
+    public partial class TravellerMain : Form
     {
-        public MainMenu()
+        public TravellerMain()
         {
             InitializeComponent();
         }
