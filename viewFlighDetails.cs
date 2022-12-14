@@ -10,14 +10,24 @@ using System.Windows.Forms;
 
 namespace OODProject
 {
-    public partial class PaymentForm : Form
+    public partial class viewFlighDetails : Form
     {
-        public PaymentForm()
+        public viewFlighDetails()
         {
             InitializeComponent();
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
         {
 
         }

@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace OODProject
 {
-    public partial class PaymentForm : Form
+    public partial class Messages : Form
     {
-        public PaymentForm()
+        public Messages()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
